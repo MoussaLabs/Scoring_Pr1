@@ -1,0 +1,38 @@
+variable,classe,effectif,taux_defaut,woe,points
+compte_courant,0 a 200 euros,172,0.384,-0.446,43
+compte_courant,pas de compte,289,0.118,1.085,90
+compte_courant,plus de 200 euros,45,0.244,0.181,63
+compte_courant,solde negatif,194,0.454,-0.732,35
+historique_credit,aucun credit,36,0.278,0.01,57
+historique_credit,autres,32,0.469,-0.794,33
+historique_credit,credits en cours ok,361,0.324,-0.183,52
+historique_credit,retards passes,62,0.29,-0.038,56
+historique_credit,tous rembourses,209,0.187,0.547,73
+epargne,100 a 500 euros,69,0.29,-0.034,56
+epargne,autres,34,0.294,-0.068,55
+epargne,moins de 100 euros,419,0.322,-0.174,51
+epargne,pas d epargne,132,0.212,0.383,71
+epargne,plus de 1000 euros,46,0.13,0.914,90
+taux_effort,"(0.999, 2.0]",258,0.264,0.104,59
+taux_effort,"(2.0, 3.0]",104,0.183,0.559,67
+taux_effort,"(3.0, 4.0]",338,0.331,-0.219,53
+montant_credit,"(1495.5, 2427.5]",175,0.269,0.078,60
+montant_credit,"(2427.5, 3780.75]",175,0.343,-0.271,47
+montant_credit,"(249.999, 1495.5]",175,0.206,0.423,72
+montant_credit,"(3780.75, 15091.0]",175,0.32,-0.168,51
+anciennete_emploi,1 a 4 ans,236,0.263,0.111,60
+anciennete_emploi,4 a 7 ans,126,0.254,0.152,61
+anciennete_emploi,moins de 1 an,120,0.358,-0.338,48
+anciennete_emploi,plus de 7 ans,180,0.256,0.146,61
+anciennete_emploi,sans emploi,38,0.421,-0.606,40
+situation_familiale,celibataire,281,0.285,0.0,57
+situation_familiale,divorce,94,0.404,-0.534,43
+situation_familiale,marie,286,0.252,0.167,61
+situation_familiale,veuf,39,0.231,0.249,63
+patrimoine,assurance vie,172,0.273,0.054,58
+patrimoine,aucun,103,0.388,-0.468,45
+patrimoine,immobilier,190,0.253,0.16,61
+patrimoine,voiture,235,0.272,0.061,59
+logement,locataire,132,0.364,-0.364,50
+logement,loge gratuitement,83,0.289,-0.031,56
+logement,proprietaire,485,0.262,0.115,59

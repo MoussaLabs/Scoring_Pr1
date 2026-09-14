@@ -1,0 +1,6 @@
+classe,effectif,defauts,taux_defaut,decision
+E (tres risque),62,36,0.581,refus
+D,61,23,0.377,refus
+C,58,12,0.207,etude manuelle
+B,61,8,0.131,accord
+A (tres sain),58,6,0.103,accord

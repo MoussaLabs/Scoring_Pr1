@@ -1,0 +1,1001 @@
+compte_courant,historique_credit,epargne,anciennete_emploi,patrimoine,logement,autres_credits,objet_credit,situation_familiale,age,montant_credit,duree_mois,taux_effort,anciennete_logement,nb_credits_en_cours,personnes_a_charge,defaut
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,34,1208,9,2,2,2,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans un magasin,voiture neuve,marie,45,2739,18,3,1,2,2,0
+0 a 200 euros,tous rembourses,500 a 1000 euros,1 a 4 ans,voiture,proprietaire,aucun,reparations,celibataire,20,1799,27,3,4,1,2,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,tv hifi,divorce,49,1406,60,4,3,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans un magasin,equipement maison,marie,75,4140,21,4,3,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,locataire,aucun,equipement maison,celibataire,33,807,32,4,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,31,3665,27,1,2,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,celibataire,32,3995,22,4,1,1,0,0
+solde negatif,credits en cours ok,pas d epargne,4 a 7 ans,voiture,proprietaire,aucun,voiture occasion,marie,35,1296,17,4,1,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,voiture neuve,celibataire,30,1352,20,1,2,1,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,locataire,aucun,voiture occasion,divorce,19,2079,5,4,1,1,0,0
+plus de 200 euros,aucun credit,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,electromenager,marie,32,2990,33,2,3,2,1,1
+0 a 200 euros,tous rembourses,500 a 1000 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,marie,24,2186,11,4,2,2,0,1
+pas de compte,defauts passes,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,36,3335,16,3,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,51,8685,28,3,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,etudes,marie,24,1693,26,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,locataire,credit dans une autre banque,voiture occasion,marie,58,710,27,3,4,3,0,0
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,marie,30,4423,12,1,2,1,0,1
+solde negatif,tous rembourses,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,equipement maison,marie,25,8201,22,4,3,1,1,1
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,divorce,42,3238,30,4,4,1,1,1
+solde negatif,tous rembourses,plus de 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,marie,29,1115,13,4,1,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,reparations,divorce,33,2232,48,3,3,1,1,0
+pas de compte,tous rembourses,500 a 1000 euros,4 a 7 ans,voiture,loge gratuitement,aucun,business,divorce,34,1091,17,1,4,1,2,0
+pas de compte,aucun credit,pas d epargne,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,electromenager,marie,41,3877,5,4,3,2,1,0
+solde negatif,tous rembourses,moins de 100 euros,sans emploi,voiture,loge gratuitement,credit dans une autre banque,tv hifi,celibataire,33,922,16,1,2,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,marie,32,1966,38,1,2,2,1,1
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,divorce,30,1184,10,4,4,1,0,0
+solde negatif,tous rembourses,plus de 1000 euros,4 a 7 ans,immobilier,locataire,credit dans une autre banque,autre,celibataire,40,2674,10,2,4,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,28,1875,24,1,1,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,assurance vie,locataire,credit dans une autre banque,voiture neuve,divorce,52,2772,9,3,1,2,0,1
+solde negatif,defauts passes,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,34,2480,9,1,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,marie,19,1199,11,2,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,37,3833,43,1,2,1,2,0
+plus de 200 euros,retards passes,plus de 1000 euros,moins de 1 an,aucun,proprietaire,aucun,tv hifi,celibataire,40,2356,25,2,2,1,0,0
+plus de 200 euros,retards passes,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,equipement maison,marie,52,1198,19,4,2,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,reparations,celibataire,26,12252,12,4,2,2,2,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,aucun,proprietaire,aucun,voiture occasion,celibataire,25,3439,30,3,4,1,0,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,voiture,loge gratuitement,aucun,equipement maison,divorce,42,2186,26,3,2,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,tv hifi,celibataire,49,6761,45,1,2,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,tv hifi,veuf,26,9192,10,1,2,1,0,0
+pas de compte,credits en cours ok,100 a 500 euros,moins de 1 an,aucun,proprietaire,aucun,tv hifi,veuf,37,2198,9,2,4,2,0,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,celibataire,33,3134,5,4,4,2,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,tv hifi,celibataire,26,1198,25,4,4,2,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,credit dans un magasin,voiture neuve,marie,32,2195,22,4,1,1,2,1
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,business,marie,48,2115,15,3,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,34,2788,5,1,2,1,0,1
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,tv hifi,marie,32,3101,40,4,2,1,0,0
+solde negatif,defauts passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,41,3652,21,2,3,1,1,1
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,divorce,49,2896,36,4,4,2,0,1
+pas de compte,defauts passes,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,24,1021,38,3,4,2,2,0
+plus de 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,etudes,celibataire,38,1242,25,4,4,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,30,1647,27,4,4,1,2,1
+0 a 200 euros,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,business,veuf,34,1992,13,4,2,2,0,0
+0 a 200 euros,tous rembourses,500 a 1000 euros,1 a 4 ans,voiture,locataire,aucun,equipement maison,marie,42,5201,20,4,2,2,1,0
+solde negatif,aucun credit,100 a 500 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,divorce,31,1056,33,3,1,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,33,1887,11,2,4,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,electromenager,celibataire,47,4847,31,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture occasion,celibataire,39,1967,30,3,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,etudes,marie,33,3400,30,1,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,business,marie,35,2207,19,3,2,2,2,0
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,loge gratuitement,aucun,business,marie,35,2936,12,1,1,1,1,0
+pas de compte,aucun credit,moins de 100 euros,moins de 1 an,immobilier,loge gratuitement,aucun,tv hifi,celibataire,19,2070,48,3,2,1,0,0
+0 a 200 euros,tous rembourses,100 a 500 euros,4 a 7 ans,voiture,proprietaire,aucun,tv hifi,veuf,36,3945,39,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,21,802,19,2,1,1,0,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,aucun,proprietaire,aucun,voiture neuve,veuf,49,1879,22,1,2,1,1,0
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,tv hifi,celibataire,21,3022,16,4,1,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,voiture neuve,marie,29,3584,5,4,2,1,1,0
+0 a 200 euros,retards passes,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,equipement maison,celibataire,27,7150,18,4,2,1,0,1
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,loge gratuitement,credit dans une autre banque,voiture neuve,marie,55,1842,25,2,2,2,2,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,locataire,aucun,voiture neuve,marie,48,7081,13,4,4,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,19,1519,15,3,2,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,34,6353,15,2,2,1,0,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,tv hifi,marie,22,4397,20,1,3,1,1,0
+0 a 200 euros,defauts passes,100 a 500 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,marie,36,1264,16,2,2,1,0,0
+0 a 200 euros,aucun credit,100 a 500 euros,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,divorce,42,3044,11,1,2,1,0,1
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,celibataire,37,2352,20,4,3,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,43,3829,24,1,2,2,0,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,marie,31,2078,21,3,4,2,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,37,1956,5,3,3,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,42,6540,27,2,4,1,0,0
+0 a 200 euros,tous rembourses,pas d epargne,4 a 7 ans,voiture,locataire,aucun,equipement maison,celibataire,29,2273,9,4,4,2,1,0
+solde negatif,retards passes,pas d epargne,plus de 7 ans,immobilier,locataire,aucun,tv hifi,celibataire,25,4425,24,2,1,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,celibataire,27,2075,25,4,2,2,0,0
+pas de compte,tous rembourses,500 a 1000 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,32,8103,7,2,2,3,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,34,1498,31,4,2,3,2,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,38,1568,47,4,4,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,veuf,26,7315,16,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,voiture,locataire,aucun,tv hifi,marie,43,1772,24,4,3,1,2,1
+0 a 200 euros,aucun credit,100 a 500 euros,4 a 7 ans,aucun,proprietaire,aucun,voiture occasion,celibataire,59,7729,14,4,3,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,credit dans une autre banque,voiture neuve,divorce,28,4638,9,3,1,2,2,1
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,divorce,70,2183,32,3,3,1,0,0
+0 a 200 euros,credits en cours ok,plus de 1000 euros,plus de 7 ans,assurance vie,locataire,aucun,business,marie,62,661,24,4,4,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,marie,34,2407,12,4,3,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,locataire,aucun,voiture neuve,veuf,32,2626,9,1,2,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,locataire,aucun,equipement maison,marie,27,5656,49,3,4,2,0,1
+solde negatif,credits en cours ok,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,divorce,45,7659,7,4,2,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,reparations,celibataire,35,1490,26,3,3,1,1,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,celibataire,36,4345,21,2,3,1,0,0
+pas de compte,tous rembourses,100 a 500 euros,sans emploi,immobilier,proprietaire,aucun,voiture occasion,marie,25,4235,29,3,2,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,etudes,marie,45,5286,42,4,4,1,0,0
+pas de compte,retards passes,500 a 1000 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,divorce,31,3495,4,4,4,1,0,0
+solde negatif,aucun credit,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,veuf,23,603,10,3,1,2,1,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,business,celibataire,33,2182,17,2,4,2,0,0
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,26,1062,44,2,3,2,1,0
+0 a 200 euros,aucun credit,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,voiture occasion,divorce,52,2109,14,1,4,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,credit dans un magasin,voiture neuve,marie,62,4942,13,4,4,2,0,1
+solde negatif,credits en cours ok,100 a 500 euros,4 a 7 ans,aucun,proprietaire,aucun,voiture neuve,celibataire,33,3040,4,4,3,1,0,1
+0 a 200 euros,tous rembourses,500 a 1000 euros,sans emploi,immobilier,locataire,credit dans une autre banque,voiture occasion,marie,48,5578,12,2,4,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,etudes,marie,47,3121,26,4,2,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,marie,19,958,17,4,2,2,1,0
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,voiture,loge gratuitement,aucun,tv hifi,marie,27,397,12,2,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,business,celibataire,35,2717,49,2,4,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,veuf,29,2092,16,4,4,2,1,0
+0 a 200 euros,credits en cours ok,500 a 1000 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,marie,26,1208,20,3,4,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,marie,48,717,11,4,3,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,formation,celibataire,29,1438,9,3,2,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,electromenager,marie,38,2122,28,4,4,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,voiture neuve,celibataire,47,3942,6,4,2,1,2,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,53,2796,25,4,4,2,1,0
+solde negatif,retards passes,100 a 500 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,marie,23,7768,4,4,3,2,0,1
+0 a 200 euros,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,formation,celibataire,24,1158,23,4,4,1,0,1
+0 a 200 euros,aucun credit,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,credit dans une autre banque,voiture neuve,marie,36,4603,9,4,2,1,2,0
+pas de compte,tous rembourses,plus de 1000 euros,moins de 1 an,voiture,locataire,credit dans une autre banque,tv hifi,celibataire,19,2525,10,2,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,etudes,marie,24,4025,16,3,3,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,celibataire,50,1782,8,4,4,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,42,5280,5,4,1,1,1,0
+0 a 200 euros,retards passes,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,32,3019,17,2,3,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,aucun,proprietaire,aucun,voiture occasion,divorce,40,1496,29,1,4,2,1,1
+pas de compte,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,proprietaire,credit dans un magasin,voiture occasion,divorce,43,2420,21,4,4,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,business,celibataire,20,2054,35,2,4,1,1,0
+solde negatif,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,voiture occasion,marie,29,3471,5,3,1,2,1,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,69,1044,15,4,1,2,0,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,tv hifi,veuf,52,2390,19,4,3,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,credit dans une autre banque,voiture neuve,celibataire,37,3244,11,1,1,1,1,0
+plus de 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,loge gratuitement,credit dans une autre banque,equipement maison,marie,37,2499,20,2,4,2,2,0
+pas de compte,retards passes,500 a 1000 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,celibataire,33,6437,34,2,2,2,0,1
+solde negatif,tous rembourses,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,etudes,celibataire,19,4261,25,2,3,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,locataire,aucun,tv hifi,veuf,27,2427,36,4,1,1,2,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,39,2853,22,3,3,2,0,0
+plus de 200 euros,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,loge gratuitement,aucun,voiture neuve,celibataire,29,3020,18,2,2,2,0,1
+plus de 200 euros,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,aucun,business,celibataire,23,3263,42,1,1,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,marie,24,656,20,2,2,2,2,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,marie,53,1964,47,4,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,28,838,31,3,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,business,veuf,49,6126,12,4,2,1,0,0
+pas de compte,tous rembourses,100 a 500 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,tv hifi,celibataire,37,2336,16,4,3,2,2,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,31,2123,42,3,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,voiture neuve,divorce,26,4655,35,4,4,1,2,1
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,42,3308,28,2,4,2,0,0
+pas de compte,tous rembourses,100 a 500 euros,1 a 4 ans,voiture,locataire,aucun,tv hifi,celibataire,47,1083,27,4,4,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,43,2319,8,2,3,1,0,0
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,divorce,21,1917,9,4,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,loge gratuitement,credit dans une autre banque,business,celibataire,28,695,21,1,1,1,1,0
+solde negatif,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,etudes,veuf,29,1485,11,4,3,1,2,0
+plus de 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,credit dans un magasin,voiture occasion,marie,19,2138,16,1,4,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,reparations,celibataire,39,2247,15,4,3,1,2,1
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,marie,41,839,26,2,4,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,equipement maison,celibataire,41,5593,22,4,4,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,credit dans une autre banque,voiture occasion,marie,39,2268,33,3,2,2,1,1
+0 a 200 euros,defauts passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,30,2507,22,2,4,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,tv hifi,veuf,25,3257,21,4,3,1,0,0
+solde negatif,retards passes,moins de 100 euros,sans emploi,immobilier,locataire,aucun,equipement maison,celibataire,30,1384,19,4,2,1,1,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,38,3390,36,1,4,1,1,1
+solde negatif,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,marie,51,1874,19,4,2,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,voiture,locataire,aucun,tv hifi,celibataire,35,1280,12,4,4,1,1,1
+0 a 200 euros,tous rembourses,plus de 1000 euros,1 a 4 ans,assurance vie,loge gratuitement,aucun,voiture neuve,celibataire,34,3688,27,4,3,2,2,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,reparations,celibataire,19,7144,17,3,2,1,0,0
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,immobilier,locataire,aucun,equipement maison,marie,38,4113,31,3,4,1,1,0
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,voiture occasion,marie,52,4744,38,4,3,3,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans un magasin,voiture occasion,celibataire,33,1678,16,3,2,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,equipement maison,divorce,32,773,37,4,1,1,0,0
+pas de compte,aucun credit,pas d epargne,1 a 4 ans,aucun,proprietaire,aucun,etudes,divorce,30,7136,31,1,4,1,2,0
+solde negatif,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,locataire,credit dans une autre banque,equipement maison,marie,42,10713,13,2,1,1,0,1
+pas de compte,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,locataire,aucun,tv hifi,celibataire,19,7412,11,4,4,2,0,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,voiture neuve,marie,49,1916,10,4,2,1,1,0
+pas de compte,credits en cours ok,100 a 500 euros,moins de 1 an,aucun,proprietaire,aucun,equipement maison,celibataire,31,1063,9,4,4,1,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,autre,celibataire,39,1133,35,2,4,1,1,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,locataire,credit dans un magasin,tv hifi,marie,44,726,17,3,2,2,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,24,2259,45,2,3,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,equipement maison,celibataire,34,7755,12,3,4,1,2,0
+pas de compte,aucun credit,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,voiture occasion,celibataire,31,2204,14,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,celibataire,22,3034,25,4,3,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,voiture,locataire,credit dans une autre banque,tv hifi,celibataire,47,6571,44,1,4,1,1,1
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,loge gratuitement,aucun,tv hifi,veuf,30,1824,13,4,4,1,1,1
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,celibataire,22,10568,29,3,4,1,0,0
+solde negatif,tous rembourses,500 a 1000 euros,1 a 4 ans,voiture,loge gratuitement,aucun,business,celibataire,34,10243,19,4,4,1,1,0
+0 a 200 euros,tous rembourses,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,20,2221,25,2,2,1,2,0
+solde negatif,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,divorce,29,1610,11,4,4,2,0,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,credit dans une autre banque,equipement maison,marie,37,4032,28,2,2,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans un magasin,tv hifi,celibataire,19,1900,16,3,1,1,0,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,divorce,42,1061,14,1,2,1,0,0
+0 a 200 euros,credits en cours ok,500 a 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,equipement maison,celibataire,35,6139,18,2,1,2,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,44,5860,26,1,1,2,2,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,voiture neuve,celibataire,44,2730,17,2,2,1,2,1
+pas de compte,retards passes,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,reparations,celibataire,29,983,14,1,1,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans un magasin,tv hifi,celibataire,29,1007,17,4,4,1,1,0
+0 a 200 euros,aucun credit,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,40,2636,17,1,1,1,0,0
+0 a 200 euros,aucun credit,100 a 500 euros,plus de 7 ans,assurance vie,locataire,aucun,tv hifi,celibataire,23,1703,25,4,2,2,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,business,marie,23,1909,15,2,1,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,business,celibataire,27,5094,15,4,1,2,2,1
+solde negatif,tous rembourses,plus de 1000 euros,1 a 4 ans,aucun,proprietaire,aucun,equipement maison,celibataire,21,4138,11,4,2,1,1,0
+pas de compte,defauts passes,pas d epargne,1 a 4 ans,immobilier,loge gratuitement,aucun,voiture neuve,marie,22,6583,26,2,3,1,2,0
+pas de compte,defauts passes,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,divorce,22,1196,20,4,4,1,2,1
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,celibataire,30,1906,36,1,4,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,loge gratuitement,credit dans une autre banque,business,marie,30,4215,33,4,4,1,0,1
+pas de compte,tous rembourses,500 a 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,46,3370,21,3,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,30,7356,18,1,2,1,1,0
+solde negatif,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,33,3304,19,2,1,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,58,9234,13,1,4,2,0,1
+pas de compte,aucun credit,500 a 1000 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,electromenager,celibataire,19,3600,11,3,1,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,loge gratuitement,aucun,equipement maison,celibataire,36,5244,10,4,3,1,0,1
+0 a 200 euros,credits en cours ok,100 a 500 euros,4 a 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,marie,31,1933,17,3,2,2,0,0
+solde negatif,credits en cours ok,pas d epargne,moins de 1 an,voiture,proprietaire,aucun,voiture occasion,celibataire,37,2466,4,3,2,1,1,0
+pas de compte,tous rembourses,plus de 1000 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,28,4703,43,1,4,2,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,30,7796,50,2,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,marie,50,4126,10,1,4,2,0,0
+pas de compte,retards passes,100 a 500 euros,moins de 1 an,immobilier,proprietaire,credit dans un magasin,tv hifi,marie,39,2299,50,4,3,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,tv hifi,celibataire,31,6579,10,1,4,1,0,0
+solde negatif,credits en cours ok,100 a 500 euros,4 a 7 ans,voiture,proprietaire,aucun,business,celibataire,26,504,19,4,4,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,locataire,credit dans un magasin,business,marie,23,877,23,2,4,2,0,0
+solde negatif,aucun credit,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,business,divorce,28,3987,20,2,2,1,2,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture occasion,celibataire,32,2466,13,4,4,2,0,1
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,aucun,locataire,aucun,voiture neuve,celibataire,58,3774,13,3,4,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,voiture occasion,divorce,35,2556,30,3,2,1,0,0
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,voiture,proprietaire,credit dans une autre banque,etudes,celibataire,27,3682,36,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,autre,marie,19,1358,5,3,4,2,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,reparations,celibataire,25,3680,22,2,3,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,28,4994,26,4,2,1,2,0
+0 a 200 euros,aucun credit,moins de 100 euros,moins de 1 an,assurance vie,locataire,aucun,business,marie,36,5877,21,4,3,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,marie,29,10402,7,1,4,1,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,59,2910,25,3,4,2,0,0
+solde negatif,credits en cours ok,pas d epargne,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,31,2973,34,1,1,2,0,1
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,46,815,11,2,3,2,0,0
+solde negatif,defauts passes,100 a 500 euros,sans emploi,aucun,proprietaire,credit dans un magasin,tv hifi,marie,19,1665,13,4,1,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,33,2124,21,4,4,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,locataire,aucun,equipement maison,marie,26,5199,18,4,2,2,1,1
+pas de compte,tous rembourses,500 a 1000 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,marie,47,1572,13,1,3,2,0,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,etudes,marie,29,4330,9,3,4,2,0,0
+solde negatif,aucun credit,pas d epargne,4 a 7 ans,voiture,locataire,aucun,tv hifi,marie,50,2438,14,4,1,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,41,2148,4,2,2,2,0,0
+plus de 200 euros,tous rembourses,100 a 500 euros,1 a 4 ans,voiture,loge gratuitement,aucun,reparations,marie,28,2920,27,4,2,2,0,0
+plus de 200 euros,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,formation,marie,23,1842,12,4,2,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,26,1792,29,4,2,1,0,0
+pas de compte,tous rembourses,plus de 1000 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,marie,30,715,16,1,4,2,0,0
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,voiture occasion,celibataire,41,2042,20,2,4,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,voiture neuve,marie,33,1727,6,4,4,1,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,credit dans un magasin,tv hifi,celibataire,44,1683,28,4,4,1,0,0
+plus de 200 euros,defauts passes,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,etudes,marie,52,3295,66,4,2,1,2,1
+plus de 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,divorce,34,3921,15,1,2,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,aucun,proprietaire,credit dans une autre banque,reparations,marie,24,2885,20,4,2,1,1,1
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,reparations,divorce,38,4998,22,4,4,1,2,0
+pas de compte,credits en cours ok,500 a 1000 euros,moins de 1 an,immobilier,loge gratuitement,credit dans un magasin,business,veuf,61,3694,8,1,4,1,2,0
+0 a 200 euros,retards passes,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,voiture occasion,celibataire,45,1973,9,3,2,1,1,0
+pas de compte,retards passes,100 a 500 euros,moins de 1 an,assurance vie,locataire,credit dans une autre banque,formation,marie,37,1749,26,4,2,2,1,0
+pas de compte,tous rembourses,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,marie,25,3057,11,2,3,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,divorce,31,3689,16,2,3,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,locataire,aucun,voiture neuve,celibataire,19,6677,20,4,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,voiture neuve,veuf,22,5754,26,3,2,1,2,0
+solde negatif,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,marie,38,1653,17,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,19,2268,17,2,3,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,voiture occasion,celibataire,30,3957,60,2,4,2,0,1
+plus de 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,celibataire,22,5266,32,4,4,1,0,0
+pas de compte,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,proprietaire,credit dans un magasin,tv hifi,marie,23,4798,15,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,assurance vie,locataire,aucun,voiture neuve,celibataire,34,2331,17,1,1,1,0,1
+0 a 200 euros,defauts passes,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,aucun,electromenager,divorce,26,989,48,4,2,3,0,0
+0 a 200 euros,retards passes,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,voiture neuve,celibataire,20,1189,26,1,3,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,marie,28,2970,34,1,2,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,equipement maison,celibataire,20,3123,15,2,4,2,2,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,49,1106,14,2,4,2,0,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,equipement maison,marie,42,2520,42,4,1,2,2,1
+0 a 200 euros,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,42,3845,18,4,3,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,sans emploi,aucun,locataire,aucun,business,celibataire,25,1065,18,4,2,2,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,celibataire,39,5408,14,4,4,1,1,0
+0 a 200 euros,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,36,1860,33,3,4,2,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,marie,26,6036,21,4,3,2,0,1
+solde negatif,retards passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,etudes,marie,33,1662,9,4,1,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,voiture occasion,marie,19,1165,13,4,4,2,1,1
+solde negatif,aucun credit,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,23,1755,37,4,4,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,32,2279,21,4,2,1,1,1
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,28,1845,34,1,4,1,1,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,37,2089,24,4,4,1,1,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,veuf,26,3104,10,4,3,1,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,divorce,30,2158,25,4,3,3,0,0
+pas de compte,defauts passes,pas d epargne,plus de 7 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,33,2327,18,2,2,1,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,marie,25,713,13,3,3,2,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,divorce,30,3236,14,4,2,1,0,0
+solde negatif,retards passes,plus de 1000 euros,1 a 4 ans,aucun,loge gratuitement,aucun,tv hifi,marie,36,2289,33,2,2,2,1,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,voiture occasion,celibataire,54,7781,22,4,1,1,0,1
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,business,celibataire,25,1241,21,2,2,2,0,0
+solde negatif,retards passes,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,reparations,marie,28,664,44,2,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans un magasin,tv hifi,veuf,75,3809,12,3,3,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,44,3132,18,3,4,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,celibataire,48,1181,13,3,4,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,equipement maison,celibataire,40,811,25,3,2,2,1,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,48,7383,21,2,2,2,1,0
+solde negatif,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,locataire,aucun,autre,divorce,25,6756,15,2,4,3,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,46,407,16,1,3,2,2,0
+pas de compte,retards passes,pas d epargne,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,equipement maison,marie,43,1755,31,2,4,3,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,23,8089,36,4,2,2,0,1
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,tv hifi,divorce,30,1732,13,4,4,1,0,0
+pas de compte,defauts passes,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,marie,19,1714,68,2,1,1,1,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,locataire,aucun,equipement maison,celibataire,35,1991,8,1,4,1,2,1
+solde negatif,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,marie,46,1089,9,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,etudes,celibataire,28,715,16,2,4,1,0,1
+0 a 200 euros,tous rembourses,500 a 1000 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,24,5207,12,4,4,1,2,0
+plus de 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,business,celibataire,23,647,11,4,2,2,2,0
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,reparations,celibataire,33,2916,35,2,3,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture occasion,celibataire,40,4621,25,2,3,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,54,858,20,3,3,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,voiture neuve,marie,19,1255,14,1,2,2,0,0
+solde negatif,retards passes,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,business,marie,52,5846,10,1,4,3,2,0
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,aucun,proprietaire,aucun,tv hifi,celibataire,35,3582,9,2,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,loge gratuitement,aucun,voiture occasion,celibataire,45,1565,35,4,3,1,0,0
+plus de 200 euros,tous rembourses,moins de 100 euros,sans emploi,aucun,loge gratuitement,aucun,equipement maison,marie,42,5800,34,3,2,1,0,1
+0 a 200 euros,credits en cours ok,plus de 1000 euros,moins de 1 an,aucun,proprietaire,aucun,voiture neuve,celibataire,34,5818,16,1,2,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,proprietaire,aucun,autre,celibataire,33,2962,7,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,divorce,38,1277,27,3,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,immobilier,loge gratuitement,aucun,tv hifi,marie,31,1812,16,3,4,3,1,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,equipement maison,divorce,31,2999,32,2,4,1,0,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,business,marie,19,2131,9,4,4,1,2,0
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,40,4798,20,4,3,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,tv hifi,marie,25,811,9,1,1,2,1,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,47,832,12,2,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,marie,45,2780,12,2,4,1,0,0
+plus de 200 euros,aucun credit,100 a 500 euros,plus de 7 ans,voiture,locataire,credit dans une autre banque,voiture neuve,celibataire,28,1713,16,2,4,1,0,0
+0 a 200 euros,credits en cours ok,plus de 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,divorce,40,1554,37,3,3,1,0,0
+solde negatif,credits en cours ok,100 a 500 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,celibataire,39,683,20,4,4,1,1,1
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,aucun,locataire,aucun,tv hifi,divorce,27,2475,29,4,1,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,divorce,41,2350,20,2,4,1,1,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,voiture,proprietaire,credit dans une autre banque,tv hifi,marie,53,3907,15,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,marie,47,2565,4,4,4,1,2,0
+0 a 200 euros,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,etudes,marie,20,2218,10,3,4,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,locataire,aucun,business,divorce,39,5696,19,3,2,1,2,1
+pas de compte,aucun credit,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,marie,45,949,21,2,4,1,1,0
+pas de compte,aucun credit,pas d epargne,plus de 7 ans,assurance vie,loge gratuitement,aucun,equipement maison,marie,27,3591,32,3,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,loge gratuitement,aucun,voiture occasion,marie,47,733,6,3,1,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans un magasin,voiture neuve,veuf,26,1335,55,4,4,1,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,credit dans un magasin,voiture occasion,marie,30,1019,4,4,2,1,1,1
+solde negatif,retards passes,pas d epargne,4 a 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,marie,26,4286,18,1,4,2,0,0
+pas de compte,defauts passes,moins de 100 euros,4 a 7 ans,immobilier,locataire,aucun,tv hifi,marie,25,2328,13,1,2,2,1,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,business,divorce,38,2417,10,4,4,2,0,1
+solde negatif,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,loge gratuitement,aucun,equipement maison,marie,21,1100,42,4,1,1,0,1
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,voiture,locataire,aucun,tv hifi,celibataire,31,1967,13,4,3,1,0,0
+solde negatif,tous rembourses,moins de 100 euros,moins de 1 an,voiture,locataire,aucun,equipement maison,marie,38,1409,6,1,2,1,0,0
+pas de compte,tous rembourses,500 a 1000 euros,1 a 4 ans,voiture,loge gratuitement,aucun,tv hifi,veuf,26,3217,8,3,2,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,credit dans une autre banque,voiture occasion,marie,49,1196,34,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,equipement maison,divorce,32,6358,8,4,2,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,celibataire,53,730,7,1,4,2,0,0
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,56,1366,21,2,4,1,0,0
+solde negatif,retards passes,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,business,marie,20,8165,16,3,4,1,1,1
+solde negatif,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,voiture occasion,divorce,38,1784,24,4,4,1,0,1
+0 a 200 euros,credits en cours ok,500 a 1000 euros,1 a 4 ans,voiture,loge gratuitement,aucun,voiture neuve,celibataire,36,947,15,4,2,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,divorce,29,2858,28,4,2,2,1,0
+pas de compte,tous rembourses,100 a 500 euros,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,marie,34,1733,7,4,3,1,2,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,75,1337,6,1,1,3,0,0
+solde negatif,tous rembourses,pas d epargne,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,40,1109,22,1,4,1,0,0
+pas de compte,tous rembourses,500 a 1000 euros,4 a 7 ans,immobilier,locataire,aucun,autre,celibataire,43,17912,16,2,2,1,1,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,voiture,loge gratuitement,aucun,business,marie,32,2036,14,2,4,2,1,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,38,610,27,4,1,1,1,0
+solde negatif,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,proprietaire,aucun,etudes,celibataire,25,7154,59,4,4,1,0,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,divorce,43,3789,7,2,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,celibataire,52,1405,38,4,1,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,44,1247,27,4,4,2,1,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,reparations,marie,26,3964,14,3,2,2,0,0
+plus de 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,24,2043,44,1,4,2,0,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,marie,68,610,8,3,3,2,1,0
+plus de 200 euros,tous rembourses,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,marie,51,8838,24,3,1,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,credit dans un magasin,tv hifi,marie,43,1786,17,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,marie,54,7164,14,3,3,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,locataire,aucun,formation,celibataire,33,6127,9,1,4,2,0,0
+pas de compte,aucun credit,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,celibataire,42,1187,72,4,3,1,0,1
+pas de compte,credits en cours ok,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,49,5135,14,4,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,31,1527,4,3,2,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,39,636,30,4,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,47,1798,23,2,3,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,celibataire,23,3250,16,2,3,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,30,1749,15,4,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,celibataire,47,1957,18,2,4,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,marie,36,5560,30,4,4,2,0,1
+pas de compte,credits en cours ok,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,34,2635,23,2,1,2,0,0
+pas de compte,credits en cours ok,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,marie,33,1330,25,1,2,1,0,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,48,4046,25,3,2,1,0,1
+solde negatif,aucun credit,500 a 1000 euros,sans emploi,voiture,proprietaire,credit dans une autre banque,autre,marie,24,2814,31,2,1,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,tv hifi,divorce,29,397,36,4,2,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,tv hifi,celibataire,21,3322,12,4,1,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture occasion,marie,30,3236,21,4,4,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,veuf,35,2476,35,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,autre,celibataire,19,4638,12,2,1,2,0,1
+0 a 200 euros,aucun credit,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,voiture occasion,marie,25,1504,39,4,1,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,36,3110,12,4,4,2,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,credit dans une autre banque,tv hifi,marie,39,790,23,4,2,2,0,0
+solde negatif,retards passes,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,58,3272,16,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,reparations,veuf,41,9959,14,4,4,2,0,1
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,marie,32,1192,24,3,4,1,2,0
+pas de compte,credits en cours ok,500 a 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,voiture occasion,marie,35,1412,36,4,2,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,marie,36,1464,16,2,4,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,assurance vie,locataire,aucun,voiture neuve,marie,29,2680,38,2,4,1,1,0
+solde negatif,credits en cours ok,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,etudes,marie,37,1135,12,4,3,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,divorce,28,3305,36,2,4,1,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture occasion,veuf,37,4491,20,1,2,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,marie,33,3586,22,1,2,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,voiture,loge gratuitement,aucun,tv hifi,divorce,31,683,9,4,4,2,0,1
+solde negatif,defauts passes,moins de 100 euros,plus de 7 ans,immobilier,loge gratuitement,aucun,tv hifi,marie,32,4997,14,2,4,1,1,1
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,marie,43,4793,18,4,4,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,credit dans une autre banque,equipement maison,marie,42,4437,34,3,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,aucun,voiture neuve,celibataire,31,3192,16,3,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,loge gratuitement,aucun,tv hifi,celibataire,43,2860,11,3,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,autre,celibataire,33,5132,21,4,3,2,0,0
+0 a 200 euros,credits en cours ok,plus de 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,33,9749,51,2,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,tv hifi,celibataire,29,1229,23,4,4,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,equipement maison,marie,56,5304,16,4,2,1,2,0
+plus de 200 euros,retards passes,pas d epargne,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,veuf,54,2294,21,4,4,1,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,voiture occasion,celibataire,27,2223,11,4,4,1,0,1
+solde negatif,retards passes,pas d epargne,1 a 4 ans,voiture,locataire,aucun,reparations,marie,30,807,41,3,3,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,equipement maison,celibataire,38,1988,40,4,2,1,2,0
+solde negatif,tous rembourses,plus de 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,40,1190,10,4,4,1,0,0
+pas de compte,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture occasion,marie,24,1748,40,4,4,1,0,0
+pas de compte,retards passes,pas d epargne,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,25,1107,22,4,4,1,2,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,19,1767,28,4,1,2,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,tv hifi,celibataire,40,1822,19,4,1,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,20,2617,19,2,2,1,2,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,aucun,proprietaire,aucun,tv hifi,celibataire,27,763,13,4,2,2,0,1
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,credit dans une autre banque,equipement maison,celibataire,45,862,10,4,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,equipement maison,celibataire,44,3167,10,4,4,2,0,1
+pas de compte,aucun credit,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,55,1374,34,2,2,1,1,0
+solde negatif,aucun credit,500 a 1000 euros,4 a 7 ans,assurance vie,proprietaire,credit dans un magasin,equipement maison,celibataire,61,5290,21,4,2,1,1,0
+solde negatif,defauts passes,pas d epargne,1 a 4 ans,immobilier,loge gratuitement,aucun,voiture neuve,celibataire,75,2870,11,4,2,2,0,1
+0 a 200 euros,aucun credit,plus de 1000 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture occasion,veuf,30,3778,20,2,4,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,28,6739,6,4,3,1,0,0
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,39,1953,11,3,4,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,21,1614,36,4,2,1,1,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,locataire,aucun,equipement maison,marie,31,4572,13,3,4,1,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,35,3522,34,2,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,voiture neuve,divorce,40,2133,18,3,2,1,2,0
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,veuf,41,6647,28,4,4,2,0,0
+0 a 200 euros,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,etudes,celibataire,31,2095,9,1,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,voiture neuve,marie,22,2499,25,4,2,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,celibataire,23,2478,4,4,2,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,locataire,credit dans une autre banque,voiture occasion,marie,19,1245,14,4,2,1,0,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,28,2581,37,1,2,1,0,0
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,celibataire,21,6672,19,4,4,1,0,0
+plus de 200 euros,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,celibataire,29,3362,10,4,4,1,2,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,locataire,aucun,voiture neuve,marie,38,2496,36,2,1,2,0,0
+pas de compte,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,loge gratuitement,credit dans une autre banque,tv hifi,marie,22,2172,55,1,2,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,equipement maison,celibataire,35,3097,16,2,2,1,2,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,tv hifi,marie,31,4187,6,4,3,2,1,0
+plus de 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,38,3784,19,1,2,1,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture occasion,divorce,41,1922,29,2,4,1,2,1
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,assurance vie,proprietaire,credit dans une autre banque,tv hifi,celibataire,30,3084,17,4,2,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,voiture,locataire,aucun,voiture neuve,marie,34,3448,4,4,4,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,marie,31,1182,27,4,4,1,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,29,2755,12,4,4,1,1,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture occasion,marie,26,515,14,1,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,39,3454,6,4,4,1,0,0
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,etudes,veuf,51,3926,4,2,4,1,0,0
+solde negatif,tous rembourses,pas d epargne,moins de 1 an,immobilier,proprietaire,aucun,autre,celibataire,49,4181,9,4,2,2,0,1
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,21,1836,13,4,2,1,0,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,51,3049,13,2,1,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,credit dans une autre banque,voiture neuve,veuf,24,6804,42,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,loge gratuitement,aucun,voiture occasion,celibataire,35,6754,9,3,4,1,1,0
+pas de compte,credits en cours ok,plus de 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,veuf,38,2390,32,1,2,2,1,0
+solde negatif,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,divorce,19,2698,20,4,4,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,4 a 7 ans,aucun,locataire,aucun,business,celibataire,32,5431,45,4,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,divorce,52,828,18,4,4,2,0,0
+plus de 200 euros,aucun credit,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,veuf,19,1934,4,3,4,1,0,0
+pas de compte,retards passes,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,celibataire,70,6384,17,4,4,3,2,1
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,reparations,marie,19,4925,4,1,2,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,marie,37,3184,9,2,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,tv hifi,celibataire,20,825,17,3,3,1,0,0
+plus de 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,equipement maison,celibataire,39,2354,17,1,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,reparations,celibataire,48,1596,32,4,1,2,1,0
+plus de 200 euros,tous rembourses,plus de 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,celibataire,44,3097,24,3,4,2,0,0
+pas de compte,tous rembourses,500 a 1000 euros,4 a 7 ans,immobilier,locataire,aucun,etudes,marie,20,1363,43,2,4,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,46,1166,31,1,4,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,equipement maison,divorce,31,552,29,4,2,1,0,1
+plus de 200 euros,tous rembourses,100 a 500 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,20,5882,52,4,3,2,2,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,52,1830,31,3,2,1,1,0
+solde negatif,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,marie,64,2733,39,4,1,2,1,1
+plus de 200 euros,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,etudes,marie,35,2437,6,2,3,2,2,0
+solde negatif,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,veuf,30,1132,15,4,1,1,0,1
+solde negatif,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,celibataire,26,986,23,1,1,2,0,0
+0 a 200 euros,retards passes,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,43,1183,20,3,4,2,2,0
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,divorce,47,1450,11,4,1,2,1,1
+solde negatif,defauts passes,pas d epargne,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,divorce,30,3178,30,4,4,1,2,1
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,56,1376,34,3,3,1,0,1
+0 a 200 euros,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,loge gratuitement,aucun,tv hifi,marie,42,8582,18,4,4,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,35,5113,16,4,1,1,0,1
+pas de compte,tous rembourses,100 a 500 euros,sans emploi,assurance vie,proprietaire,aucun,business,marie,38,4368,14,4,3,1,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,tv hifi,celibataire,24,2239,30,3,2,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,electromenager,celibataire,43,7261,16,2,4,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,locataire,aucun,voiture neuve,divorce,24,2086,19,4,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,28,2386,36,1,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,marie,33,2758,22,1,4,2,0,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,divorce,60,4045,19,1,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,etudes,celibataire,37,3861,13,4,1,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,voiture neuve,veuf,25,1734,19,1,2,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,veuf,38,1663,12,4,4,2,2,1
+pas de compte,credits en cours ok,100 a 500 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,reparations,marie,41,3869,21,3,2,3,0,0
+plus de 200 euros,credits en cours ok,plus de 1000 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,celibataire,50,4085,14,1,2,2,0,0
+plus de 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,34,1839,15,3,1,1,1,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,26,778,19,2,3,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,credit dans une autre banque,reparations,celibataire,66,2102,46,4,4,1,1,1
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,38,3824,23,4,2,1,1,0
+0 a 200 euros,credits en cours ok,plus de 1000 euros,sans emploi,immobilier,proprietaire,credit dans une autre banque,voiture neuve,veuf,25,8954,9,3,2,2,2,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,tv hifi,celibataire,33,1030,16,1,1,1,0,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,assurance vie,proprietaire,aucun,business,marie,28,1795,13,4,2,2,2,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,51,1844,13,4,2,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,marie,41,6478,13,4,3,1,0,0
+plus de 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,divorce,30,2380,16,4,3,2,1,0
+0 a 200 euros,tous rembourses,500 a 1000 euros,moins de 1 an,aucun,proprietaire,aucun,business,celibataire,47,1270,12,2,4,1,1,0
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,immobilier,locataire,credit dans une autre banque,reparations,celibataire,33,3649,12,4,1,2,0,1
+solde negatif,tous rembourses,100 a 500 euros,moins de 1 an,assurance vie,loge gratuitement,aucun,autre,marie,33,1824,13,2,4,2,0,1
+0 a 200 euros,aucun credit,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,26,1011,13,1,3,1,2,0
+0 a 200 euros,defauts passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,26,1283,11,4,3,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,tv hifi,celibataire,64,8506,26,4,4,1,0,0
+pas de compte,defauts passes,500 a 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,reparations,celibataire,46,3218,15,4,2,2,1,1
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,voiture,proprietaire,aucun,voiture occasion,veuf,19,2638,16,2,1,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture occasion,divorce,24,2039,16,2,4,1,0,1
+plus de 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,locataire,aucun,tv hifi,marie,22,3012,12,3,2,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,credit dans un magasin,voiture neuve,divorce,34,2986,10,4,1,1,1,1
+solde negatif,retards passes,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,equipement maison,marie,29,3012,28,2,2,2,0,1
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,marie,54,2651,11,4,2,2,2,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,celibataire,30,4562,11,2,4,2,0,1
+0 a 200 euros,retards passes,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans un magasin,tv hifi,marie,62,2482,33,4,2,2,0,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,equipement maison,marie,33,1207,13,4,2,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,locataire,aucun,tv hifi,celibataire,67,1570,19,3,3,3,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,tv hifi,marie,32,587,15,2,3,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,plus de 7 ans,aucun,locataire,aucun,tv hifi,marie,32,10502,18,4,4,2,0,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,marie,46,4542,41,3,1,1,1,0
+0 a 200 euros,credits en cours ok,plus de 1000 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,marie,44,1343,12,4,4,3,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,divorce,21,1992,26,4,3,2,1,1
+plus de 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,celibataire,35,1543,28,2,4,2,0,0
+plus de 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,marie,29,7410,27,4,2,1,2,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,marie,28,878,40,2,3,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,credit dans une autre banque,reparations,marie,35,2650,4,4,4,2,0,0
+plus de 200 euros,retards passes,100 a 500 euros,moins de 1 an,voiture,locataire,aucun,tv hifi,celibataire,31,2257,7,2,4,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,locataire,aucun,tv hifi,celibataire,36,4426,10,4,2,1,2,1
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,divorce,24,2265,14,2,2,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,19,688,22,2,3,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,divorce,47,2037,11,2,4,1,1,0
+plus de 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,locataire,credit dans un magasin,voiture neuve,marie,49,1212,11,4,2,1,0,0
+solde negatif,retards passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,46,2585,20,4,4,1,2,0
+pas de compte,credits en cours ok,100 a 500 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,divorce,34,6854,25,4,4,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,autre,marie,30,698,18,2,4,1,2,0
+solde negatif,aucun credit,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,27,1372,25,4,3,1,2,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,locataire,credit dans une autre banque,voiture neuve,marie,25,1639,6,4,2,2,2,0
+pas de compte,tous rembourses,pas d epargne,moins de 1 an,immobilier,locataire,aucun,tv hifi,divorce,33,1854,12,2,4,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture occasion,celibataire,49,4158,10,3,4,1,1,0
+solde negatif,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,reparations,celibataire,26,2154,13,3,4,1,1,1
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,voiture,locataire,aucun,tv hifi,celibataire,49,3292,18,2,2,1,2,0
+solde negatif,aucun credit,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,business,divorce,20,1555,5,2,4,2,0,1
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,celibataire,37,2880,13,4,2,1,0,1
+solde negatif,tous rembourses,100 a 500 euros,4 a 7 ans,immobilier,loge gratuitement,aucun,tv hifi,marie,39,4273,12,2,2,1,0,0
+solde negatif,tous rembourses,500 a 1000 euros,1 a 4 ans,aucun,proprietaire,credit dans une autre banque,equipement maison,marie,28,1440,7,4,4,3,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,tv hifi,marie,23,4284,26,4,3,1,0,1
+solde negatif,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,44,2534,18,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,celibataire,34,5181,13,4,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,marie,74,2111,44,1,4,1,0,0
+0 a 200 euros,tous rembourses,pas d epargne,moins de 1 an,aucun,proprietaire,aucun,tv hifi,marie,49,3212,7,4,3,3,0,0
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,reparations,divorce,49,2370,45,2,4,1,0,1
+0 a 200 euros,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,19,2277,16,4,2,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,divorce,27,2941,11,4,4,3,1,0
+pas de compte,tous rembourses,pas d epargne,sans emploi,aucun,proprietaire,credit dans un magasin,voiture neuve,marie,22,3592,13,4,4,1,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,divorce,19,993,14,4,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,credit dans un magasin,equipement maison,marie,33,6851,49,3,2,1,1,1
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,locataire,aucun,etudes,marie,44,640,22,1,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,business,divorce,24,1491,9,4,4,1,0,0
+solde negatif,retards passes,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,divorce,19,2280,28,1,4,1,1,1
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,immobilier,proprietaire,aucun,reparations,marie,25,3284,14,4,4,1,0,0
+pas de compte,credits en cours ok,500 a 1000 euros,plus de 7 ans,aucun,loge gratuitement,aucun,voiture neuve,celibataire,32,7592,4,1,2,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,loge gratuitement,aucun,equipement maison,celibataire,31,640,27,4,2,1,0,0
+0 a 200 euros,credits en cours ok,500 a 1000 euros,1 a 4 ans,voiture,locataire,credit dans une autre banque,tv hifi,celibataire,34,1693,28,2,2,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,celibataire,39,528,15,3,2,2,2,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,34,2497,12,4,4,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,divorce,45,2968,29,3,1,1,1,1
+plus de 200 euros,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,locataire,aucun,voiture neuve,celibataire,24,7672,12,2,4,1,0,0
+pas de compte,defauts passes,plus de 1000 euros,moins de 1 an,assurance vie,proprietaire,aucun,tv hifi,marie,31,2662,33,3,4,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,41,5176,12,2,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,loge gratuitement,aucun,business,celibataire,37,3716,17,3,4,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,60,1784,23,2,2,1,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,aucun,locataire,aucun,tv hifi,celibataire,24,885,20,4,4,3,0,0
+plus de 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,41,2975,11,2,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,divorce,27,834,22,4,1,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,celibataire,26,6202,27,3,4,1,0,0
+solde negatif,aucun credit,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,48,2172,9,2,1,1,2,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,tv hifi,marie,34,5771,23,3,4,1,0,0
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,divorce,37,1727,17,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,marie,28,2962,10,1,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,loge gratuitement,aucun,tv hifi,marie,28,2838,22,4,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,marie,19,2363,29,4,4,1,0,0
+pas de compte,tous rembourses,100 a 500 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,divorce,36,1787,13,2,1,1,0,0
+solde negatif,aucun credit,100 a 500 euros,moins de 1 an,immobilier,proprietaire,aucun,reparations,celibataire,23,3238,22,4,4,1,1,1
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,locataire,aucun,tv hifi,marie,32,1253,14,2,2,1,1,0
+pas de compte,retards passes,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,etudes,divorce,45,1022,26,2,4,1,0,0
+0 a 200 euros,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,19,5972,32,4,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,autre,marie,75,4120,21,4,1,1,1,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,voiture neuve,marie,26,2559,27,4,3,1,0,1
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,33,8094,29,4,2,1,0,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,autre,marie,37,2013,13,4,4,3,0,0
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,immobilier,proprietaire,aucun,voiture occasion,marie,26,6326,14,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,marie,29,2769,23,1,2,2,0,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,48,1167,36,4,3,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,locataire,aucun,tv hifi,divorce,43,9233,8,4,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,formation,celibataire,31,4981,24,1,2,1,0,0
+pas de compte,retards passes,pas d epargne,moins de 1 an,voiture,locataire,aucun,voiture occasion,marie,34,2237,34,3,4,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,aucun,proprietaire,credit dans une autre banque,tv hifi,marie,35,4120,16,1,2,1,0,1
+pas de compte,retards passes,pas d epargne,plus de 7 ans,aucun,proprietaire,credit dans une autre banque,voiture neuve,marie,41,1825,18,4,1,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,42,4434,18,4,2,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,equipement maison,marie,41,436,17,4,2,2,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,divorce,29,1171,11,2,3,1,0,1
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,assurance vie,locataire,aucun,voiture occasion,marie,35,4940,17,4,2,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,divorce,47,2039,11,2,4,2,2,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,formation,veuf,66,2834,26,4,1,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,equipement maison,celibataire,35,925,6,4,2,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,voiture occasion,celibataire,28,9232,29,4,2,2,0,0
+0 a 200 euros,tous rembourses,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,equipement maison,veuf,25,5751,31,4,4,1,0,0
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,veuf,41,2112,20,4,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,tv hifi,celibataire,19,1824,44,1,3,1,0,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,proprietaire,aucun,autre,celibataire,41,5122,23,2,4,2,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,equipement maison,celibataire,42,10172,22,4,2,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,aucun,locataire,credit dans une autre banque,etudes,veuf,28,4850,5,3,1,2,2,0
+pas de compte,retards passes,500 a 1000 euros,moins de 1 an,voiture,loge gratuitement,aucun,tv hifi,celibataire,37,11657,32,2,2,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture neuve,marie,31,1256,10,4,2,2,0,0
+solde negatif,aucun credit,500 a 1000 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,divorce,21,1353,10,3,2,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,tv hifi,celibataire,40,1037,21,3,1,1,0,0
+pas de compte,tous rembourses,plus de 1000 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,tv hifi,marie,39,3355,11,4,2,1,2,0
+solde negatif,credits en cours ok,pas d epargne,sans emploi,assurance vie,proprietaire,aucun,etudes,celibataire,29,2770,16,3,2,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,divorce,66,2188,34,1,1,1,0,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,formation,celibataire,34,4371,41,1,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,locataire,aucun,tv hifi,marie,19,5927,13,4,4,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,equipement maison,marie,47,814,17,4,2,1,1,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,credit dans une autre banque,tv hifi,celibataire,44,1588,56,4,4,1,0,1
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,celibataire,45,4405,41,2,4,2,1,0
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,aucun,proprietaire,aucun,autre,marie,24,1743,30,4,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,celibataire,36,1374,11,4,2,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,voiture neuve,divorce,34,5081,13,4,2,2,1,1
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture occasion,divorce,32,964,30,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,tv hifi,marie,52,1964,5,3,2,2,0,0
+pas de compte,aucun credit,plus de 1000 euros,1 a 4 ans,voiture,locataire,credit dans une autre banque,voiture neuve,marie,34,3092,33,3,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,locataire,aucun,voiture neuve,marie,29,1615,37,2,1,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,equipement maison,divorce,29,4289,15,2,4,1,0,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,23,1620,41,4,3,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,equipement maison,celibataire,35,6729,24,4,4,1,2,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,celibataire,53,2229,9,4,3,1,2,0
+pas de compte,retards passes,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,30,3957,20,3,4,2,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,marie,37,4176,12,1,3,2,0,1
+solde negatif,retards passes,plus de 1000 euros,1 a 4 ans,voiture,locataire,aucun,tv hifi,marie,32,1553,21,1,3,2,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,33,556,8,3,4,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,voiture occasion,marie,44,3164,43,3,4,2,0,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,23,2571,26,4,1,1,0,0
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,celibataire,20,3642,14,1,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,marie,47,2073,21,4,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,28,1790,18,2,4,1,0,1
+0 a 200 euros,credits en cours ok,pas d epargne,moins de 1 an,aucun,proprietaire,credit dans un magasin,reparations,marie,30,10364,44,4,3,2,2,1
+solde negatif,retards passes,moins de 100 euros,sans emploi,assurance vie,locataire,aucun,tv hifi,celibataire,71,845,18,4,3,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,locataire,aucun,tv hifi,marie,44,4140,21,1,4,1,2,0
+pas de compte,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,marie,25,1614,7,4,2,2,0,0
+pas de compte,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,49,1916,21,4,4,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,loge gratuitement,credit dans une autre banque,equipement maison,celibataire,44,1942,23,3,1,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,divorce,19,1369,9,3,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,marie,36,3682,28,1,4,2,0,0
+plus de 200 euros,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,locataire,aucun,tv hifi,marie,23,6643,4,4,4,1,0,1
+solde negatif,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,tv hifi,celibataire,33,3423,17,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,equipement maison,marie,66,2629,7,1,2,2,0,0
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,marie,45,1200,19,2,2,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture occasion,marie,47,3541,15,4,4,2,0,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,32,11528,24,2,4,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,47,1855,18,4,2,2,2,0
+pas de compte,retards passes,moins de 100 euros,sans emploi,voiture,locataire,credit dans un magasin,etudes,celibataire,26,1862,24,4,4,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,divorce,35,1629,19,4,4,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,veuf,44,1716,34,3,1,1,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,tv hifi,celibataire,44,338,31,2,3,2,2,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,etudes,marie,20,3267,12,1,4,1,0,0
+solde negatif,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,tv hifi,celibataire,61,1328,32,4,3,3,1,0
+solde negatif,tous rembourses,500 a 1000 euros,4 a 7 ans,assurance vie,loge gratuitement,credit dans une autre banque,tv hifi,celibataire,24,766,23,4,4,1,0,1
+plus de 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,tv hifi,celibataire,75,4198,35,4,3,2,1,1
+pas de compte,retards passes,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,celibataire,45,1120,10,4,4,2,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,aucun,locataire,aucun,business,marie,43,1912,8,2,1,1,0,0
+plus de 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,25,7015,8,1,3,2,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,celibataire,28,885,41,4,1,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,business,celibataire,59,810,36,3,2,1,2,1
+pas de compte,aucun credit,100 a 500 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,divorce,56,2963,31,2,2,1,2,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,aucun,loge gratuitement,aucun,tv hifi,celibataire,32,5584,8,1,2,1,0,0
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,marie,31,786,31,1,4,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,locataire,aucun,voiture neuve,celibataire,31,3273,8,2,4,2,0,0
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,tv hifi,marie,49,3708,4,4,2,1,2,0
+solde negatif,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,47,554,14,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,voiture occasion,celibataire,38,4337,17,4,3,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,locataire,aucun,voiture occasion,celibataire,36,4588,38,4,4,2,1,1
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,aucun,proprietaire,credit dans une autre banque,reparations,celibataire,32,1950,10,4,4,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,73,6013,58,3,1,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,locataire,aucun,etudes,marie,21,5532,21,2,4,1,1,1
+solde negatif,credits en cours ok,pas d epargne,plus de 7 ans,assurance vie,proprietaire,aucun,voiture occasion,celibataire,30,2629,17,4,4,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,38,1763,17,2,3,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,business,marie,19,1211,8,2,4,2,0,0
+solde negatif,retards passes,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,tv hifi,marie,28,2375,15,2,4,1,2,1
+pas de compte,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,veuf,66,3678,22,3,3,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,46,1933,31,2,4,2,1,0
+pas de compte,aucun credit,moins de 100 euros,plus de 7 ans,immobilier,loge gratuitement,aucun,equipement maison,marie,28,502,15,2,4,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture occasion,marie,27,6084,21,3,2,2,0,0
+solde negatif,aucun credit,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,autre,divorce,21,2799,29,4,2,2,0,1
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,immobilier,proprietaire,aucun,tv hifi,divorce,29,1857,15,4,2,3,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,41,4524,33,4,4,1,0,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,38,7315,26,2,4,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,loge gratuitement,aucun,voiture neuve,celibataire,30,325,30,2,1,1,0,0
+plus de 200 euros,retards passes,100 a 500 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,24,3336,5,4,4,2,1,1
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,voiture,loge gratuitement,aucun,tv hifi,marie,32,874,16,3,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,tv hifi,marie,31,3496,12,4,4,1,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,44,2676,4,4,1,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,aucun,reparations,marie,37,3857,47,4,3,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,sans emploi,assurance vie,locataire,credit dans une autre banque,voiture neuve,divorce,35,1704,31,4,4,1,0,1
+solde negatif,retards passes,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,equipement maison,celibataire,50,634,7,3,3,1,1,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture occasion,marie,56,1765,39,2,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,marie,38,3271,18,4,4,2,1,1
+pas de compte,retards passes,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,divorce,39,5070,24,1,2,1,1,1
+0 a 200 euros,aucun credit,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,business,divorce,32,1050,13,2,4,1,0,1
+0 a 200 euros,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,marie,25,5113,33,2,2,2,1,0
+plus de 200 euros,tous rembourses,plus de 1000 euros,moins de 1 an,aucun,proprietaire,aucun,business,marie,45,1531,18,3,2,1,1,0
+pas de compte,aucun credit,100 a 500 euros,1 a 4 ans,assurance vie,locataire,aucun,equipement maison,divorce,42,3168,25,1,1,1,1,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,aucun,locataire,aucun,autre,marie,33,1691,34,1,2,2,0,1
+0 a 200 euros,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,locataire,aucun,tv hifi,celibataire,37,2783,27,4,2,1,0,1
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,business,marie,49,4639,15,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,52,1009,18,4,4,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,moins de 1 an,assurance vie,locataire,aucun,tv hifi,celibataire,19,1496,30,4,2,1,1,1
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,formation,divorce,27,2788,4,1,4,2,1,0
+0 a 200 euros,retards passes,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,marie,33,13755,16,2,1,2,2,1
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,aucun,proprietaire,aucun,voiture neuve,marie,23,1311,19,1,2,1,0,0
+0 a 200 euros,aucun credit,moins de 100 euros,moins de 1 an,aucun,locataire,credit dans une autre banque,equipement maison,celibataire,37,10603,22,4,4,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,locataire,aucun,business,celibataire,28,10334,13,4,4,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,loge gratuitement,aucun,tv hifi,celibataire,37,2275,18,2,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,celibataire,28,1969,21,2,2,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,marie,28,1483,21,4,4,2,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,37,2324,20,4,4,1,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,1 a 4 ans,aucun,proprietaire,aucun,reparations,marie,46,886,15,4,4,1,1,0
+pas de compte,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,proprietaire,credit dans un magasin,voiture neuve,celibataire,41,2310,21,2,2,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,veuf,33,7171,38,2,3,1,1,1
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,proprietaire,aucun,business,celibataire,19,1572,18,4,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,celibataire,28,2052,21,4,4,1,0,1
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,assurance vie,locataire,aucun,tv hifi,celibataire,27,717,18,4,2,1,2,0
+pas de compte,credits en cours ok,pas d epargne,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,43,3195,37,4,3,1,0,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,loge gratuitement,credit dans un magasin,tv hifi,marie,36,2953,16,4,2,1,2,0
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,marie,36,2555,10,4,3,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,tv hifi,marie,25,2088,28,2,2,2,1,0
+solde negatif,defauts passes,pas d epargne,sans emploi,aucun,loge gratuitement,aucun,voiture occasion,celibataire,53,1977,15,2,1,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,immobilier,locataire,aucun,equipement maison,marie,36,3503,27,4,3,2,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,marie,25,2390,14,2,2,1,1,0
+pas de compte,defauts passes,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,26,3062,9,4,2,1,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,loge gratuitement,credit dans une autre banque,tv hifi,celibataire,38,2849,18,4,2,1,2,0
+0 a 200 euros,tous rembourses,100 a 500 euros,1 a 4 ans,assurance vie,loge gratuitement,aucun,voiture occasion,celibataire,25,5480,7,4,1,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,27,3974,22,3,4,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,23,2804,30,3,3,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,43,7283,49,4,4,1,1,0
+solde negatif,defauts passes,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,celibataire,25,3303,14,4,2,2,0,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,celibataire,56,6245,12,4,4,3,0,1
+pas de compte,aucun credit,500 a 1000 euros,1 a 4 ans,aucun,loge gratuitement,credit dans une autre banque,voiture occasion,veuf,39,3778,29,3,3,1,2,1
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,aucun,proprietaire,aucun,tv hifi,divorce,23,648,28,2,3,1,1,0
+solde negatif,aucun credit,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,voiture occasion,celibataire,41,6245,29,4,3,2,0,0
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,voiture,proprietaire,aucun,etudes,celibataire,53,2690,50,4,4,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,etudes,celibataire,33,2351,19,4,3,2,2,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,marie,55,2989,55,1,2,2,1,1
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,tv hifi,celibataire,40,1904,15,3,2,2,2,0
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,aucun,loge gratuitement,credit dans un magasin,voiture neuve,marie,28,2874,12,3,4,1,0,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,credit dans un magasin,equipement maison,marie,66,1594,12,4,3,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,tv hifi,divorce,21,6109,11,4,1,2,1,1
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,30,2249,51,3,2,1,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,divorce,33,1853,36,1,3,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,aucun,proprietaire,aucun,voiture occasion,marie,62,1254,48,4,4,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,equipement maison,celibataire,43,2962,5,1,1,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,41,2793,8,4,2,1,1,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,loge gratuitement,aucun,tv hifi,celibataire,26,3228,15,4,4,2,1,1
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,equipement maison,celibataire,33,1165,14,3,4,1,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,28,771,21,3,2,1,1,0
+pas de compte,tous rembourses,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture occasion,marie,40,3829,19,4,4,1,0,0
+pas de compte,aucun credit,moins de 100 euros,4 a 7 ans,voiture,proprietaire,credit dans un magasin,voiture occasion,marie,50,7108,9,2,3,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,assurance vie,locataire,aucun,equipement maison,veuf,71,1166,13,2,3,2,1,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,29,7665,16,4,4,2,0,1
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,equipement maison,veuf,20,2994,9,4,4,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,assurance vie,locataire,aucun,electromenager,celibataire,30,2428,17,4,2,2,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,etudes,marie,47,1833,9,2,2,1,0,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,celibataire,25,901,17,2,2,3,1,0
+0 a 200 euros,defauts passes,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,celibataire,34,4970,10,1,1,1,0,0
+solde negatif,tous rembourses,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,divorce,41,1396,31,2,1,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,sans emploi,voiture,proprietaire,aucun,etudes,celibataire,29,1392,24,4,2,1,2,0
+pas de compte,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,locataire,aucun,voiture neuve,marie,37,4985,23,2,4,2,1,0
+pas de compte,credits en cours ok,100 a 500 euros,plus de 7 ans,assurance vie,locataire,aucun,business,marie,24,629,28,4,4,1,1,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,assurance vie,loge gratuitement,aucun,equipement maison,marie,51,815,24,2,3,2,1,0
+solde negatif,credits en cours ok,plus de 1000 euros,4 a 7 ans,aucun,proprietaire,aucun,equipement maison,marie,31,2409,31,3,3,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,business,marie,36,3014,20,4,1,2,1,1
+solde negatif,retards passes,plus de 1000 euros,moins de 1 an,assurance vie,loge gratuitement,aucun,voiture neuve,celibataire,19,3460,28,2,2,1,0,1
+plus de 200 euros,credits en cours ok,plus de 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,23,1964,23,3,1,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,tv hifi,divorce,47,15091,23,2,4,1,0,0
+solde negatif,tous rembourses,plus de 1000 euros,moins de 1 an,aucun,proprietaire,aucun,voiture neuve,celibataire,29,2071,7,1,2,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,loge gratuitement,aucun,equipement maison,celibataire,25,2067,10,3,4,3,0,0
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,marie,20,1375,21,3,4,3,0,0
+pas de compte,retards passes,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,tv hifi,marie,51,2668,12,4,2,2,0,0
+0 a 200 euros,retards passes,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,43,3800,18,4,2,1,0,0
+0 a 200 euros,tous rembourses,pas d epargne,1 a 4 ans,immobilier,locataire,aucun,business,celibataire,42,5806,13,4,4,1,1,0
+solde negatif,retards passes,moins de 100 euros,moins de 1 an,voiture,loge gratuitement,aucun,voiture neuve,marie,57,835,14,1,4,1,2,0
+0 a 200 euros,retards passes,plus de 1000 euros,moins de 1 an,immobilier,loge gratuitement,credit dans une autre banque,voiture occasion,celibataire,30,2044,19,4,4,1,2,1
+0 a 200 euros,defauts passes,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture occasion,marie,20,3366,16,1,2,1,2,1
+0 a 200 euros,aucun credit,100 a 500 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,voiture neuve,marie,35,3724,39,4,3,1,0,0
+pas de compte,tous rembourses,500 a 1000 euros,plus de 7 ans,immobilier,locataire,credit dans une autre banque,voiture neuve,celibataire,61,2452,7,4,2,2,2,0
+solde negatif,credits en cours ok,500 a 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,autre,marie,35,3607,26,2,4,2,0,0
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture occasion,veuf,49,1363,28,4,4,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,marie,21,7493,40,4,4,1,0,0
+0 a 200 euros,tous rembourses,plus de 1000 euros,plus de 7 ans,voiture,locataire,aucun,voiture neuve,divorce,26,4988,19,4,2,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,marie,46,927,27,2,4,2,2,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,aucun,loge gratuitement,aucun,reparations,marie,36,1125,38,4,2,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,voiture occasion,celibataire,33,1149,13,4,1,1,1,0
+pas de compte,retards passes,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,voiture neuve,celibataire,49,3976,10,2,2,1,1,0
+plus de 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,immobilier,locataire,aucun,voiture neuve,celibataire,46,968,20,4,4,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,loge gratuitement,credit dans une autre banque,voiture neuve,marie,36,1923,16,1,4,2,1,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,voiture neuve,divorce,19,3386,27,1,1,2,1,1
+0 a 200 euros,defauts passes,pas d epargne,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,34,2327,7,4,4,1,0,0
+0 a 200 euros,retards passes,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,voiture neuve,marie,39,2941,37,4,2,1,0,1
+solde negatif,aucun credit,moins de 100 euros,4 a 7 ans,aucun,locataire,credit dans une autre banque,tv hifi,marie,19,1133,22,4,2,2,0,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,voiture occasion,marie,39,3745,16,4,2,1,1,1
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,business,celibataire,50,1569,19,1,3,2,0,0
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,aucun,loge gratuitement,aucun,formation,marie,34,1932,32,2,3,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,24,2896,25,4,3,2,0,0
+0 a 200 euros,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,19,2629,18,2,4,1,0,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,veuf,39,2483,16,4,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,19,1422,17,4,4,2,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,42,1967,26,1,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,locataire,aucun,equipement maison,divorce,60,2444,16,2,4,1,0,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,moins de 1 an,immobilier,proprietaire,aucun,reparations,celibataire,19,907,25,3,4,1,0,1
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,business,marie,26,1749,11,4,4,1,2,0
+pas de compte,aucun credit,pas d epargne,1 a 4 ans,immobilier,locataire,aucun,equipement maison,celibataire,31,3226,12,4,3,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,61,973,18,4,4,2,0,0
+solde negatif,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,voiture neuve,celibataire,35,5612,16,3,1,2,1,0
+pas de compte,aucun credit,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,voiture neuve,celibataire,29,6088,12,2,4,2,0,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,marie,47,996,9,1,1,1,1,1
+pas de compte,credits en cours ok,pas d epargne,plus de 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,30,6487,11,3,2,1,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,etudes,marie,26,2201,42,1,3,2,1,1
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,veuf,41,3299,12,2,4,1,0,1
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,immobilier,proprietaire,credit dans un magasin,equipement maison,celibataire,49,1707,4,3,1,3,0,1
+0 a 200 euros,retards passes,plus de 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,19,4744,19,3,4,2,0,0
+pas de compte,credits en cours ok,pas d epargne,moins de 1 an,assurance vie,proprietaire,aucun,tv hifi,marie,26,3269,12,1,4,1,1,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,credit dans un magasin,equipement maison,divorce,36,1358,15,4,4,2,2,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,aucun,etudes,celibataire,32,1055,30,4,3,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,marie,34,853,16,1,4,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,aucun,locataire,credit dans un magasin,equipement maison,divorce,24,2794,15,4,2,2,1,1
+pas de compte,credits en cours ok,500 a 1000 euros,1 a 4 ans,assurance vie,locataire,credit dans une autre banque,voiture neuve,celibataire,42,3686,13,1,3,2,2,0
+plus de 200 euros,credits en cours ok,plus de 1000 euros,1 a 4 ans,immobilier,locataire,credit dans une autre banque,equipement maison,divorce,55,3900,16,4,4,1,1,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,reparations,celibataire,26,2242,23,1,4,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,42,1061,5,4,4,1,1,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,reparations,divorce,47,1494,8,1,2,1,0,0
+plus de 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,marie,36,5595,23,4,2,1,0,1
+solde negatif,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,42,1722,19,2,2,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,voiture neuve,celibataire,27,2706,13,4,3,1,2,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,locataire,aucun,voiture occasion,divorce,54,1125,24,3,2,2,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,assurance vie,loge gratuitement,aucun,tv hifi,marie,49,3110,15,1,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,electromenager,celibataire,51,1755,30,4,4,1,2,0
+0 a 200 euros,tous rembourses,500 a 1000 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture occasion,marie,22,5186,13,1,4,2,1,1
+pas de compte,tous rembourses,pas d epargne,4 a 7 ans,voiture,proprietaire,credit dans une autre banque,equipement maison,marie,40,4260,10,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,proprietaire,aucun,equipement maison,celibataire,27,1708,63,1,4,2,0,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,locataire,aucun,equipement maison,celibataire,56,2228,27,3,1,1,0,0
+solde negatif,credits en cours ok,pas d epargne,1 a 4 ans,aucun,locataire,aucun,voiture occasion,celibataire,26,1641,11,4,1,1,0,1
+solde negatif,tous rembourses,pas d epargne,1 a 4 ans,aucun,locataire,aucun,voiture neuve,marie,37,878,15,3,4,1,0,1
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,marie,19,1316,13,2,3,1,0,0
+0 a 200 euros,tous rembourses,100 a 500 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,marie,37,2815,6,4,3,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,divorce,22,3085,15,4,1,1,2,0
+solde negatif,credits en cours ok,plus de 1000 euros,1 a 4 ans,immobilier,locataire,aucun,voiture neuve,divorce,41,2716,20,4,2,1,1,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,tv hifi,marie,32,1964,38,3,4,1,2,1
+solde negatif,aucun credit,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,aucun,voiture occasion,celibataire,30,4778,17,3,4,2,0,1
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,autre,marie,56,2555,14,2,4,1,2,0
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,68,4049,40,2,3,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,immobilier,proprietaire,credit dans un magasin,equipement maison,marie,20,681,36,4,3,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,30,250,20,2,4,1,2,0
+plus de 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,45,2994,19,3,3,1,0,0
+pas de compte,tous rembourses,500 a 1000 euros,1 a 4 ans,assurance vie,proprietaire,aucun,reparations,divorce,38,875,23,3,3,1,0,0
+pas de compte,credits en cours ok,500 a 1000 euros,moins de 1 an,immobilier,proprietaire,credit dans une autre banque,voiture neuve,celibataire,44,2094,13,4,4,1,0,0
+solde negatif,credits en cours ok,500 a 1000 euros,moins de 1 an,immobilier,proprietaire,aucun,business,marie,33,1964,18,4,4,2,1,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,etudes,celibataire,49,7654,12,4,4,2,2,1
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,tv hifi,divorce,36,3255,36,3,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,tv hifi,celibataire,39,2750,11,4,3,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,22,4459,21,4,4,3,0,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,35,3182,21,1,1,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,45,1755,38,1,4,1,0,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,voiture neuve,celibataire,38,5279,14,1,2,1,1,0
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,marie,63,1098,12,3,4,2,0,0
+0 a 200 euros,tous rembourses,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,36,3080,26,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,40,801,24,2,2,1,0,0
+pas de compte,tous rembourses,pas d epargne,moins de 1 an,immobilier,loge gratuitement,aucun,etudes,celibataire,36,2827,49,3,3,1,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,divorce,33,2804,20,4,4,1,1,0
+pas de compte,credits en cours ok,500 a 1000 euros,plus de 7 ans,aucun,proprietaire,aucun,reparations,marie,45,8160,36,4,4,1,0,0
+solde negatif,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,33,791,34,4,2,2,0,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,loge gratuitement,aucun,equipement maison,marie,22,1583,12,2,4,1,0,0
+pas de compte,tous rembourses,100 a 500 euros,4 a 7 ans,immobilier,proprietaire,credit dans un magasin,voiture occasion,celibataire,56,4413,7,1,3,1,0,0
+pas de compte,aucun credit,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,celibataire,27,3107,15,1,3,1,1,1
+0 a 200 euros,retards passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture neuve,celibataire,20,2779,29,1,1,2,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,divorce,42,1226,38,2,4,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,electromenager,veuf,58,1595,4,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,equipement maison,marie,42,5982,11,1,3,1,0,0
+solde negatif,credits en cours ok,pas d epargne,4 a 7 ans,assurance vie,proprietaire,aucun,equipement maison,celibataire,53,2352,23,1,4,1,2,0
+pas de compte,tous rembourses,100 a 500 euros,plus de 7 ans,immobilier,proprietaire,aucun,reparations,celibataire,25,3198,26,2,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,immobilier,loge gratuitement,aucun,tv hifi,celibataire,22,2246,10,4,3,1,1,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,credit dans une autre banque,equipement maison,marie,30,1041,12,4,2,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,voiture occasion,celibataire,48,4781,6,4,4,1,1,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,aucun,proprietaire,aucun,etudes,veuf,41,3506,43,2,3,2,1,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,celibataire,42,12837,21,3,4,2,0,0
+pas de compte,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,divorce,36,1175,12,1,4,2,1,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,immobilier,locataire,credit dans une autre banque,voiture occasion,marie,30,4413,34,2,4,1,1,0
+solde negatif,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,electromenager,marie,36,949,21,4,4,1,0,1
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,locataire,aucun,voiture neuve,marie,32,2733,38,4,3,3,0,0
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,autre,marie,30,4930,41,4,2,2,1,1
+0 a 200 euros,aucun credit,plus de 1000 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,marie,39,549,10,4,4,2,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,electromenager,marie,31,2106,36,4,4,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,marie,37,1627,35,1,2,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,locataire,aucun,equipement maison,veuf,19,1472,24,4,2,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,aucun,proprietaire,aucun,etudes,marie,36,3221,25,1,2,1,0,1
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,voiture,loge gratuitement,aucun,equipement maison,marie,31,5469,20,4,2,1,0,0
+solde negatif,aucun credit,moins de 100 euros,sans emploi,voiture,proprietaire,aucun,tv hifi,divorce,54,2217,9,2,1,1,0,1
+solde negatif,credits en cours ok,plus de 1000 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,19,2830,8,3,3,1,1,1
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,35,2650,44,4,3,1,2,1
+solde negatif,tous rembourses,moins de 100 euros,1 a 4 ans,aucun,locataire,credit dans un magasin,voiture occasion,marie,45,2444,21,3,3,1,1,1
+pas de compte,tous rembourses,moins de 100 euros,4 a 7 ans,assurance vie,loge gratuitement,aucun,tv hifi,marie,33,1114,16,2,2,1,0,0
+plus de 200 euros,credits en cours ok,100 a 500 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,divorce,31,5421,26,2,4,2,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,voiture neuve,marie,45,3019,12,2,4,1,2,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,40,3243,14,4,4,1,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,aucun,locataire,aucun,tv hifi,marie,41,1366,19,4,3,2,0,0
+solde negatif,defauts passes,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,credit dans une autre banque,tv hifi,celibataire,30,1753,13,3,1,1,1,1
+0 a 200 euros,credits en cours ok,100 a 500 euros,plus de 7 ans,voiture,locataire,aucun,voiture neuve,marie,28,2150,25,2,4,1,1,1
+0 a 200 euros,credits en cours ok,pas d epargne,1 a 4 ans,aucun,proprietaire,aucun,voiture neuve,divorce,37,809,17,4,4,2,2,0
+solde negatif,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,proprietaire,aucun,business,celibataire,46,724,24,2,2,2,0,0
+pas de compte,retards passes,500 a 1000 euros,sans emploi,immobilier,proprietaire,credit dans une autre banque,voiture occasion,marie,21,1584,26,2,2,1,0,0
+pas de compte,credits en cours ok,100 a 500 euros,4 a 7 ans,assurance vie,proprietaire,aucun,reparations,marie,33,3555,34,2,2,1,1,0
+solde negatif,credits en cours ok,plus de 1000 euros,4 a 7 ans,immobilier,proprietaire,aucun,etudes,celibataire,29,1525,15,4,2,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,34,1172,10,1,1,1,2,1
+pas de compte,retards passes,moins de 100 euros,moins de 1 an,aucun,loge gratuitement,aucun,voiture neuve,veuf,44,1358,60,1,4,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,locataire,aucun,reparations,celibataire,26,1758,38,3,3,3,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,proprietaire,credit dans une autre banque,tv hifi,celibataire,42,1892,6,2,4,2,1,1
+plus de 200 euros,credits en cours ok,pas d epargne,4 a 7 ans,aucun,proprietaire,aucun,tv hifi,celibataire,30,11605,65,4,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,moins de 1 an,assurance vie,loge gratuitement,credit dans une autre banque,equipement maison,marie,49,5215,13,3,4,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,voiture occasion,marie,26,5104,17,3,4,2,0,0
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,assurance vie,proprietaire,aucun,voiture neuve,marie,46,5661,9,1,4,1,1,1
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,proprietaire,aucun,equipement maison,celibataire,22,1189,20,2,2,1,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,tv hifi,divorce,36,1012,13,4,4,2,0,1
+pas de compte,credits en cours ok,plus de 1000 euros,moins de 1 an,voiture,proprietaire,aucun,equipement maison,celibataire,42,1100,9,4,4,1,0,0
+solde negatif,retards passes,pas d epargne,1 a 4 ans,voiture,proprietaire,aucun,equipement maison,celibataire,26,6379,8,2,1,1,1,0
+pas de compte,retards passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,equipement maison,marie,19,1646,11,1,4,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,29,991,27,1,4,1,2,1
+solde negatif,tous rembourses,moins de 100 euros,moins de 1 an,aucun,locataire,aucun,formation,divorce,35,1789,25,4,4,1,0,1
+0 a 200 euros,tous rembourses,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,credit dans une autre banque,voiture neuve,divorce,31,2055,10,4,2,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,moins de 1 an,voiture,loge gratuitement,aucun,equipement maison,celibataire,28,2961,15,3,3,1,0,1
+pas de compte,credits en cours ok,pas d epargne,sans emploi,aucun,proprietaire,aucun,voiture neuve,divorce,45,2924,31,4,1,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,credit dans une autre banque,tv hifi,marie,50,1344,15,4,2,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,locataire,aucun,tv hifi,divorce,49,3998,38,4,1,1,0,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,proprietaire,aucun,business,celibataire,40,1540,56,1,3,2,0,1
+solde negatif,credits en cours ok,500 a 1000 euros,1 a 4 ans,aucun,proprietaire,credit dans une autre banque,voiture occasion,marie,42,2181,11,2,4,1,0,1
+solde negatif,retards passes,100 a 500 euros,sans emploi,assurance vie,locataire,aucun,business,celibataire,25,4002,12,1,2,2,2,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,divorce,33,1537,41,4,3,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,celibataire,35,1620,15,4,2,2,0,0
+0 a 200 euros,tous rembourses,moins de 100 euros,moins de 1 an,voiture,proprietaire,credit dans une autre banque,voiture neuve,marie,38,3737,32,4,1,1,2,1
+solde negatif,aucun credit,500 a 1000 euros,1 a 4 ans,assurance vie,locataire,aucun,etudes,celibataire,38,1316,21,1,3,1,1,1
+pas de compte,tous rembourses,moins de 100 euros,plus de 7 ans,voiture,proprietaire,aucun,tv hifi,celibataire,35,1850,16,2,1,2,1,0
+solde negatif,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,tv hifi,marie,40,3641,27,2,3,1,1,1
+pas de compte,credits en cours ok,100 a 500 euros,1 a 4 ans,voiture,proprietaire,aucun,reparations,divorce,37,10710,42,4,1,1,1,0
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,voiture neuve,marie,37,3774,35,2,1,1,2,1
+0 a 200 euros,tous rembourses,100 a 500 euros,sans emploi,voiture,proprietaire,aucun,voiture neuve,divorce,27,3430,18,1,3,2,1,0
+pas de compte,retards passes,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,etudes,celibataire,23,3577,21,4,4,1,2,0
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,loge gratuitement,aucun,voiture occasion,marie,38,1127,32,2,1,1,0,1
+pas de compte,tous rembourses,moins de 100 euros,sans emploi,assurance vie,proprietaire,aucun,voiture neuve,marie,30,2652,22,3,3,1,0,0
+pas de compte,credits en cours ok,plus de 1000 euros,4 a 7 ans,voiture,proprietaire,aucun,equipement maison,celibataire,27,2389,45,1,4,1,2,0
+pas de compte,credits en cours ok,100 a 500 euros,sans emploi,assurance vie,proprietaire,aucun,tv hifi,marie,43,3076,4,4,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,immobilier,loge gratuitement,credit dans une autre banque,voiture neuve,marie,34,2654,12,4,2,1,2,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,aucun,loge gratuitement,aucun,voiture occasion,marie,53,3208,25,4,4,1,0,1
+pas de compte,credits en cours ok,moins de 100 euros,sans emploi,voiture,locataire,aucun,voiture neuve,marie,41,1950,14,3,4,1,0,0
+solde negatif,credits en cours ok,500 a 1000 euros,4 a 7 ans,aucun,loge gratuitement,aucun,equipement maison,marie,26,2546,43,4,1,2,2,1
+solde negatif,defauts passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,etudes,celibataire,43,1008,12,4,4,2,0,0
+solde negatif,defauts passes,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,autre,celibataire,39,1938,20,4,4,2,2,0
+0 a 200 euros,tous rembourses,pas d epargne,1 a 4 ans,aucun,proprietaire,aucun,tv hifi,marie,26,6644,11,4,4,1,2,1
+0 a 200 euros,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans une autre banque,voiture neuve,celibataire,28,3070,18,2,4,2,2,1
+pas de compte,credits en cours ok,moins de 100 euros,4 a 7 ans,voiture,proprietaire,aucun,formation,celibataire,42,2404,5,2,4,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,immobilier,proprietaire,aucun,tv hifi,marie,19,9559,7,1,4,3,1,0
+pas de compte,tous rembourses,pas d epargne,plus de 7 ans,assurance vie,loge gratuitement,aucun,voiture neuve,marie,19,916,55,4,4,1,2,0
+solde negatif,credits en cours ok,100 a 500 euros,1 a 4 ans,immobilier,locataire,aucun,business,celibataire,36,1098,19,4,4,1,1,0
+pas de compte,credits en cours ok,pas d epargne,1 a 4 ans,immobilier,locataire,aucun,tv hifi,marie,35,8376,15,4,4,1,1,0
+solde negatif,tous rembourses,moins de 100 euros,sans emploi,immobilier,proprietaire,aucun,tv hifi,marie,37,2523,9,2,2,1,2,1
+solde negatif,tous rembourses,plus de 1000 euros,1 a 4 ans,immobilier,proprietaire,credit dans une autre banque,tv hifi,celibataire,35,2049,10,3,2,2,1,1
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,aucun,proprietaire,aucun,voiture neuve,marie,40,1029,51,2,4,2,2,0
+0 a 200 euros,tous rembourses,moins de 100 euros,plus de 7 ans,immobilier,locataire,aucun,voiture neuve,marie,51,3369,20,4,1,3,0,1
+pas de compte,credits en cours ok,moins de 100 euros,moins de 1 an,voiture,loge gratuitement,aucun,tv hifi,marie,34,3612,35,2,4,1,0,1
+pas de compte,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,locataire,aucun,voiture neuve,marie,20,1110,4,4,4,1,0,0
+0 a 200 euros,credits en cours ok,moins de 100 euros,plus de 7 ans,voiture,locataire,aucun,equipement maison,celibataire,19,2206,13,2,4,1,0,0
+solde negatif,retards passes,plus de 1000 euros,plus de 7 ans,immobilier,locataire,aucun,tv hifi,marie,30,1917,47,2,4,3,1,0
+0 a 200 euros,tous rembourses,pas d epargne,moins de 1 an,voiture,proprietaire,aucun,tv hifi,celibataire,31,2935,13,4,4,1,0,1
+solde negatif,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,loge gratuitement,aucun,equipement maison,veuf,22,1090,9,3,1,2,2,0
+pas de compte,credits en cours ok,moins de 100 euros,1 a 4 ans,voiture,proprietaire,credit dans un magasin,electromenager,divorce,19,6011,24,1,4,1,0,0
+0 a 200 euros,tous rembourses,100 a 500 euros,plus de 7 ans,voiture,proprietaire,credit dans une autre banque,reparations,marie,30,4719,6,3,2,1,0,1
+0 a 200 euros,tous rembourses,pas d epargne,moins de 1 an,aucun,locataire,aucun,tv hifi,celibataire,58,1879,5,1,3,2,0,0
+0 a 200 euros,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,proprietaire,aucun,voiture neuve,celibataire,39,2088,43,4,2,1,0,0
+pas de compte,credits en cours ok,moins de 100 euros,plus de 7 ans,assurance vie,proprietaire,aucun,voiture occasion,celibataire,38,2212,11,4,2,1,0,0
+solde negatif,credits en cours ok,moins de 100 euros,sans emploi,voiture,proprietaire,credit dans une autre banque,voiture occasion,marie,32,1394,27,2,2,1,0,0
+pas de compte,tous rembourses,pas d epargne,1 a 4 ans,immobilier,locataire,aucun,voiture neuve,celibataire,30,1774,52,4,2,2,1,0
+pas de compte,credits en cours ok,100 a 500 euros,1 a 4 ans,aucun,proprietaire,aucun,voiture occasion,marie,40,2009,19,1,4,1,0,0
+0 a 200 euros,aucun credit,pas d epargne,1 a 4 ans,immobilier,proprietaire,aucun,voiture neuve,celibataire,22,7795,26,4,4,1,0,1
+pas de compte,retards passes,moins de 100 euros,1 a 4 ans,assurance vie,proprietaire,aucun,equipement maison,veuf,63,4825,5,4,2,1,1,0
+plus de 200 euros,retards passes,moins de 100 euros,1 a 4 ans,voiture,proprietaire,aucun,formation,celibataire,23,4784,11,4,2,1,0,0
+solde negatif,credits en cours ok,100 a 500 euros,moins de 1 an,voiture,locataire,aucun,voiture neuve,divorce,41,3185,47,2,4,1,0,1
